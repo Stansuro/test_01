@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test_01</string>
+    <string name="edit_message">Hello World!</string>
+    <string name="button_label">Lets Go!</string>
+</resources>
